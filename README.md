@@ -1,4 +1,4 @@
-# <u> MY PROFILE </u>
+# <u> My Profile </u>
 
 ```
 Professional Experience: 
@@ -19,7 +19,7 @@ Role: Jr. DevOps Engineer
 ```
 ---
 
-## IAM good with following devops tools
+## I am good with following devops tools
 
 ```
 
@@ -64,8 +64,8 @@ Role: Jr. DevOps Engineer
 ---
 
 
-@[MY LINKEDIN](https://www.linkedin.com/in/ghouse-basha-shaik-627096201/) Ghouse Basha Shaik
+@[My Linkedin](https://www.linkedin.com/in/ghouse-basha-shaik-627096201/) Ghouse Basha Shaik
 
-@[MY NAUKRI.COM](https://www.naukri.com/mnjuser/profile?id=&orgn=homepage) Ghouse basha shaik
+@[My Naukri](https://www.naukri.com/mnjuser/profile?id=&orgn=homepage) Ghouse basha shaik
  
 
