@@ -64,8 +64,6 @@ Role: Jr. DevOps Engineer
 ---
 
 
-![I AM](https://my.naukri.com/Photo/getProfileImage?v=1613018119000) Ghouse Basha Shaik
-
 @[MY LINKEDIN](https://www.linkedin.com/in/ghouse-basha-shaik-627096201/) Ghouse Basha Shaik
 
 @[MY NAUKRI.COM](https://www.naukri.com/mnjuser/profile?id=&orgn=homepage) Ghouse basha shaik
