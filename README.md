@@ -5,11 +5,19 @@ Professional Experience:
 
 Organization: RedM Technologies Pvt Ltd 					    
 Role: Jr. DevOps Engineer
+```
 
 ---
-* Having 2+ years of overall experience in IT industry which includes around 1 years of experience as a LINUX Administrator and 1+ years in the implementation of DevOps
+``` 
+	Having 2+ years of overall experience in IT industry which includes around 1 years of 
+	experience as a LINUX Administrator and 1+ years in the implementation of DevOps
+```
 
-* initially i started working as a linux admin, later i got a changes to learn devops technologies from my orginzation
+```
+	initially i started working as a linux admin, later i got a changes to learn devops technologies
+	from my orginzation
+```
+---
 
 ## Where i learnt following devops tools
    ```
@@ -43,13 +51,18 @@ Role: Jr. DevOps Engineer
 
 #### These are my certifications
 
->	Kubernetes Certified Administrator (CKA)
->	Docker Certified Associate (DCA)
->	Redhat Certified Engineer (RHEL 7)
+	>	Kubernetes Certified Administrator (CKA)
+	
+	>	Docker Certified Associate (DCA)
+	
+	>	Redhat Certified Engineer (RHEL 7)
 
 ---
-![I AM] (https://media-exp1.licdn.com/dms/image/C5603AQF1Kb-iOi2Fjw/profile-displayphoto-shrink_800_800/0/1606721376765?e=1618444800&v=beta&t=x73GG2NhTuFUfVUI8TLhddKbx2r184YboaC-3fpY4KY) Ghouse Basha Shaik
+
+![I AM](https://media-exp1.licdn.com/dms/image/C5603AQF1Kb-iOi2Fjw/profile-displayphoto-shrink_800_800/0/1606721376765?e=1618444800&v=beta&t=x73GG2NhTuFUfVUI8TLhddKbx2r184YboaC-3fpY4KY) Ghouse Basha Shaik
+
 [MY LINKEDIN](https://www.linkedin.com/in/ghouse-basha-shaik-627096201/) Ghouse Basha Shaik
+
 [MY NAUKRI.COM](https://www.naukri.com/mnjuser/profile?id=&orgn=homepage) Ghouse basha shaik
  
 
